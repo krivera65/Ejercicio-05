@@ -109,4 +109,25 @@ private int jumpsMade: El número de saltos realizados.
         
     - Asegúrate de que la salida falsa (false) del nodo condicional esté conectada directamente a la entrada de "Move" si la condición no se cumple. Esto significa que si la          condición no se cumple, la velocidad permanecerá sin cambios.
 
+6. Imágenes del resultado del visual script y su ejecusión
+   
+   ![imagen](https://github.com/krivera65/Ejercicio-05/assets/143332773/4ab5073f-8b54-4f55-85d2-c59ccf6920bc)
+
+   ![imagen](https://github.com/krivera65/Ejercicio-05/assets/143332773/90bb7f6c-55c6-419a-be56-23858d38196e)
+
+   ![imagen](https://github.com/krivera65/Ejercicio-05/assets/143332773/096618d4-9321-4b8b-8f00-0fbe6e684c07)
+
+   ![imagen](https://github.com/krivera65/Ejercicio-05/assets/143332773/089ce62b-6cfc-4930-adb8-3653dfc0572a)
+
+   ![imagen](https://github.com/krivera65/Ejercicio-05/assets/143332773/ae3d4b65-c2ce-4c12-8e70-7eeccfdb3225)
+
+   ![imagen](https://github.com/krivera65/Ejercicio-05/assets/143332773/b627e9e5-a7b5-40f4-a74c-88bf5e117301)
+
+   ![200w(1)](https://github.com/krivera65/Ejercicio-05/assets/143332773/99130cf8-6f31-413b-af03-c704764ca406)
+
+
+
+   
+
+
     
